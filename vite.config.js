@@ -12,11 +12,7 @@ export default defineConfig({
         react()
     ],
     build: {
-        outDir: 'public/build',
-        assetsDir: '',
-        manifest: true,
-        rollupOptions: {
-            input: 'resources/js/Search.jsx',
+        outDir: 'docs',
         },
-    },
+    
 });
