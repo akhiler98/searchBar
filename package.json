@@ -1,5 +1,4 @@
 {
-    "homepage": "https://akhiler98.github.io/searchBar/",
     "private": true,
     "scripts": {
         "dev": "vite",
